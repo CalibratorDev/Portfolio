@@ -20,10 +20,10 @@ From a young age, I've shown better learning capabilities than other kids my age
 
 I hope to expand my knowledge of things technical in nature, and to help progress any business, projects, or goals either I or anyone else has, as I enjoy assisting others to achieve what they wish to. I mainly wish to learn coding languages so i can start working on my own goals and personal projects, to further my own personal education and expertise.
 
-\/ START WORING HERE \/
-
 ## Resume
-You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/11FJNgtF8fAgEQIFJ0aA9S9O8_6_7Jgp-/view?usp=sharing).
+You can download my CV as [a PDF from my Google Drive]([https://drive.google.com/file/d/11FJNgtF8fAgEQIFJ0aA9S9O8_6_7Jgp-/view?usp=sharing](https://docs.google.com/document/d/155h0gsRPgkTg7OCCO6XJdd1HNC0Y82cnN-dI5M-8wgM/edit?usp=sharing)).
+
+\/ START WORING HERE \/
 
 ## Skills
 
