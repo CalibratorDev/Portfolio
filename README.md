@@ -6,7 +6,6 @@
 - [Tools](#tools)
 - [Courses](#courses)
 - [Examples of my work](#examples-of-my-work)
-  * [Test cases and work in TestRail](#test-cases-and-work-in-testrail)
 
 
 ## About me
@@ -19,8 +18,6 @@ I hope to expand my knowledge of things technical in nature, and to help progres
 
 ## Resume
 Here is a link to my resume [from my Google Drive]([https://drive.google.com/file/d/11FJNgtF8fAgEQIFJ0aA9S9O8_6_7Jgp-/view?usp=sharing](https://docs.google.com/document/d/155h0gsRPgkTg7OCCO6XJdd1HNC0Y82cnN-dI5M-8wgM/edit?usp=sharing)).
-
-\/ START WORING HERE \/
 
 ## Skills
 
